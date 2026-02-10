@@ -1,26 +1,25 @@
-# 📅 Día 1 - [Fecha]
+# 📅 Día 1 - [06/02/2026]
 
 ## 🎯 Lo que hemos visto hoy
 
 ### Mañana
-- Dinámica: Gartic Phone (sobre distorsión de información)
-- Conceptos: ¿Qué es análisis de datos?
-- Ejercicio: Palabras en griego (buscar patrones sin contexto)
-
+- toma de contacto con Git y GitHub
+- crear un nuevo repositorio
+- clonarlo
+- pimeros commits
 ### Tarde
-- Git y GitHub: instalación y configuración
-- Primeros comandos: clone, status, add, commit, push
+- taller de práctica para 
 
 ## 💡 Lo que he aprendido
 
-[Escribe aquí lo más importante que te llevas del día]
+He reforzado mis conocimientos de Git y GitHub ya que los tenía olvidados. Hemos hecho piña con todos los compañeros
 
 ## ❓ Dudas que tengo
 
-[Anota aquí lo que necesitas repasar o preguntar]
+
 
 ## 🔗 Recursos útiles
 
-- [Enlace a algún recurso que te haya gustado]
+- 
 
----
+
